@@ -1,5 +1,5 @@
 {
-  "version": "26.05.09-beta",
-  "direct_link": "https://github.com/DucTapCode/Car-Fu/releases/download/v26.05.09-carfu/car-fu.zip",
-  "patch_notes": "- Lột xác giao diện Launcher theo phong cách Cyber-Racing không viền.\n- Hệ thống màu sắc Dark Mode kết hợp Cyan Neon tăng độ tương phản.\n- Tái cấu trúc Layout với Sidebar, Main Content và Footer riêng biệt.\n- Nút PLAY kích thước lớn với hiệu ứng Glow hiện đại.\n- Tích hợp WndProc cho phép kéo di chuyển cửa sổ linh hoạt.\n- Fix lỗi Call Stack trong Visual Studio Designer."
+  "version": "26.05.10",
+  "direct_link": "https://github.com/DucTapCode/Car-Fu/releases/download/v26.05.10-carfu/Car-Fu.zip",
+  "patch_notes": "- Cập nhật vật lý Rigidbody Unity 6 (linearVelocity) giúp xe húc nhau cực mạnh.\n- Thêm hệ thống Stun 0.8s khi bị va chạm mạnh.\n- Launcher: Thêm thuật toán Smart Scaling cho thanh cuộn và tự động ẩn (Auto-hide).\n- Fix lỗi tải file GitHub (GitHub Bypass) và lỗi End of Central Directory.\n- Đồng bộ chuẩn xác loại xe đã chọn trong Multiplayer.\n- Khóa FPS ở mức 60 để tối ưu nhiệt độ máy tính."
 }
