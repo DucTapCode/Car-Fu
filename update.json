@@ -1,4 +1,5 @@
 {
-  "version": "1.0",
-  "direct_link": "https://ptok2.pcloud.com/cBZaiGJ907ZO83bGl7ZLjYW7ZZhhU25kZ2ZZKIzZkZUyML0Zd4Zr4ZFmZYQZtQZoTZapZ7QZEYZuHZcHZ1LZORZEFZs6OO5ZFnakJzYqKeyKVN3C7t67UHd3QGi7/car-fu.zip"
+  "version": "26.05.09-beta",
+  "direct_link": "https://filebin.net/gwn5gxamhbxjenit/car-fu.zip",
+  "patch_notes": "- Lột xác giao diện Launcher theo phong cách Cyber-Racing không viền.\n- Hệ thống màu sắc Dark Mode kết hợp Cyan Neon tăng độ tương phản.\n- Tái cấu trúc Layout với Sidebar, Main Content và Footer riêng biệt.\n- Nút PLAY kích thước lớn với hiệu ứng Glow hiện đại.\n- Tích hợp WndProc cho phép kéo di chuyển cửa sổ linh hoạt.\n- Fix lỗi Call Stack trong Visual Studio Designer."
 }
